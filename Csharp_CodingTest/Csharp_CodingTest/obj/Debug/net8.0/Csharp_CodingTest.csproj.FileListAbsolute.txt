@@ -1,0 +1,14 @@
+C:\Projects\C# Projects\Csharp_CodingTest\Csharp_CodingTest\bin\Debug\net8.0\Csharp_CodingTest.exe
+C:\Projects\C# Projects\Csharp_CodingTest\Csharp_CodingTest\bin\Debug\net8.0\Csharp_CodingTest.deps.json
+C:\Projects\C# Projects\Csharp_CodingTest\Csharp_CodingTest\bin\Debug\net8.0\Csharp_CodingTest.runtimeconfig.json
+C:\Projects\C# Projects\Csharp_CodingTest\Csharp_CodingTest\bin\Debug\net8.0\Csharp_CodingTest.dll
+C:\Projects\C# Projects\Csharp_CodingTest\Csharp_CodingTest\bin\Debug\net8.0\Csharp_CodingTest.pdb
+C:\Projects\C# Projects\Csharp_CodingTest\Csharp_CodingTest\obj\Debug\net8.0\Csharp_CodingTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\C# Projects\Csharp_CodingTest\Csharp_CodingTest\obj\Debug\net8.0\Csharp_CodingTest.AssemblyInfoInputs.cache
+C:\Projects\C# Projects\Csharp_CodingTest\Csharp_CodingTest\obj\Debug\net8.0\Csharp_CodingTest.AssemblyInfo.cs
+C:\Projects\C# Projects\Csharp_CodingTest\Csharp_CodingTest\obj\Debug\net8.0\Csharp_CodingTest.csproj.CoreCompileInputs.cache
+C:\Projects\C# Projects\Csharp_CodingTest\Csharp_CodingTest\obj\Debug\net8.0\Csharp_CodingTest.dll
+C:\Projects\C# Projects\Csharp_CodingTest\Csharp_CodingTest\obj\Debug\net8.0\refint\Csharp_CodingTest.dll
+C:\Projects\C# Projects\Csharp_CodingTest\Csharp_CodingTest\obj\Debug\net8.0\Csharp_CodingTest.pdb
+C:\Projects\C# Projects\Csharp_CodingTest\Csharp_CodingTest\obj\Debug\net8.0\Csharp_CodingTest.genruntimeconfig.cache
+C:\Projects\C# Projects\Csharp_CodingTest\Csharp_CodingTest\obj\Debug\net8.0\ref\Csharp_CodingTest.dll
